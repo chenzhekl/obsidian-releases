@@ -14020,6 +14020,13 @@
         "author": "Jiaheng Zhang",
         "description": "Convert markdown into timeline visualization",
         "repo": "recklyss/markdown-timeline"
+    },
+    {
+        "id": "paper_importer",
+	"name": "Paper Importer",
+	"author": "Zhe Chen",
+	"description": "A plugin to help you import papers from arXiv",
+	"repo": "chenzhekl/obsidian_paper_importer"
     }
 ]
 
