@@ -14037,10 +14037,10 @@
   },
   {
     "id": "paper_importer",
-	  "name": "Paper Importer",
-	  "author": "Zhe Chen",
-	  "description": "A plugin to help you import papers from arXiv",
-	  "repo": "chenzhekl/obsidian_paper_importer"
+    "name": "Paper Importer",
+    "author": "Zhe Chen",
+    "description": "A plugin to help you import papers from arXiv",
+    "repo": "chenzhekl/obsidian_paper_importer"
   }
 ]
 
